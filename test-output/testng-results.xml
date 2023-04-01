@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T12:42:41 IST" name="Default suite" finished-at="2023-03-29T12:42:57 IST" duration-ms="15876">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T12:42:41 IST" name="Default test" finished-at="2023-03-29T12:42:57 IST" duration-ms="15876">
+      <class name="com.tutorialsninja.qa.testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchTest@5c33f1a9]" started-at="2023-03-29T12:42:41 IST" name="setup" finished-at="2023-03-29T12:42:55 IST" duration-ms="13989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithValidProduct()[pri:1, instance:com.tutorialsninja.qa.testcases.SearchTest@5c33f1a9]" started-at="2023-03-29T12:42:55 IST" name="verifySearchWithValidProduct" finished-at="2023-03-29T12:42:56 IST" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchTest@5c33f1a9]" started-at="2023-03-29T12:42:56 IST" name="tearDown" finished-at="2023-03-29T12:42:57 IST" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.qa.testcases.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
